@@ -170,10 +170,3 @@ ul button:hover {
     background-color: #ffff;
 }
 
-@media screen {
-    max-width: 100%;
-
-    body {
-        max-width: 900px;
-    }
-}
